@@ -5,7 +5,7 @@ Exercise 10 question 1
 The program runs  a class of soldiers
 *********************************/
 
-
+/***********************uriii //
 #pragma once
 #include <iostream>
 using namespace std;
