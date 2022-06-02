@@ -5,7 +5,7 @@ Exercise 10 question 1
 The program runs  a class of soldiers
 *********************************/
 
-
+//**********************************************************************************************************//
 #include"Commander.h"
 
 bool Commander::medal()
