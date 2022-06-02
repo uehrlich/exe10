@@ -1,10 +1,10 @@
-/********************************
+﻿/********************************
 Uri Ehrlich 208967976
 Programming in C++
 Exercise 10 question 1
 The program runs  a class of soldiers
 *********************************/
-
+/*יייייייייייייי*/
 
 #pragma once
 #include <iostream>
