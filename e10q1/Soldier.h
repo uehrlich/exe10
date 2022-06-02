@@ -6,6 +6,8 @@ The program runs  a class of soldiers
 *********************************/
 /*יייייייייייייי*/
 
+
+/***********************uriii //
 #pragma once
 #include <iostream>
 using namespace std;
